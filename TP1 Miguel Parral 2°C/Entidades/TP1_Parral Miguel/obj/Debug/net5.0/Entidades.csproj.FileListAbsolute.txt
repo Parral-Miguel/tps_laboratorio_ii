@@ -1,0 +1,48 @@
+C:\Users\parra\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\bin\Debug\net5.0\Entidades.exe
+C:\Users\parra\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\parra\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\bin\Debug\net5.0\Entidades.runtimeconfig.json
+C:\Users\parra\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\bin\Debug\net5.0\Entidades.runtimeconfig.dev.json
+C:\Users\parra\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\bin\Debug\net5.0\Entidades.dll
+C:\Users\parra\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\parra\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\bin\Debug\net5.0\Entidades.pdb
+C:\Users\parra\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\parra\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parra\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\parra\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\parra\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\parra\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\Entidades.dll
+C:\Users\parra\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\parra\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\Entidades.pdb
+C:\Users\parra\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\Entidades.genruntimeconfig.cache
+C:\Users\guill\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\bin\Debug\net5.0\Entidades.exe
+C:\Users\guill\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\guill\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\bin\Debug\net5.0\Entidades.runtimeconfig.json
+C:\Users\guill\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\bin\Debug\net5.0\Entidades.runtimeconfig.dev.json
+C:\Users\guill\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\bin\Debug\net5.0\Entidades.dll
+C:\Users\guill\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\bin\Debug\net5.0\Entidades.pdb
+C:\Users\guill\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\guill\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\guill\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\guill\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\guill\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\Entidades.dll
+C:\Users\guill\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\guill\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\Entidades.pdb
+C:\Users\guill\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\Entidades.genruntimeconfig.cache
+C:\Users\guill\Desktop\tp_laboratorio_2\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\refint\Entidades.dll
+C:\Users\guill\Desktop\tps_laboratorio_ii\TP1 Miguel Parral 2°C\Entidades\TP1_Parral Miguel\bin\Debug\net5.0\Entidades.exe
+C:\Users\guill\Desktop\tps_laboratorio_ii\TP1 Miguel Parral 2°C\Entidades\TP1_Parral Miguel\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\guill\Desktop\tps_laboratorio_ii\TP1 Miguel Parral 2°C\Entidades\TP1_Parral Miguel\bin\Debug\net5.0\Entidades.runtimeconfig.json
+C:\Users\guill\Desktop\tps_laboratorio_ii\TP1 Miguel Parral 2°C\Entidades\TP1_Parral Miguel\bin\Debug\net5.0\Entidades.runtimeconfig.dev.json
+C:\Users\guill\Desktop\tps_laboratorio_ii\TP1 Miguel Parral 2°C\Entidades\TP1_Parral Miguel\bin\Debug\net5.0\Entidades.dll
+C:\Users\guill\Desktop\tps_laboratorio_ii\TP1 Miguel Parral 2°C\Entidades\TP1_Parral Miguel\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\guill\Desktop\tps_laboratorio_ii\TP1 Miguel Parral 2°C\Entidades\TP1_Parral Miguel\bin\Debug\net5.0\Entidades.pdb
+C:\Users\guill\Desktop\tps_laboratorio_ii\TP1 Miguel Parral 2°C\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\guill\Desktop\tps_laboratorio_ii\TP1 Miguel Parral 2°C\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guill\Desktop\tps_laboratorio_ii\TP1 Miguel Parral 2°C\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\guill\Desktop\tps_laboratorio_ii\TP1 Miguel Parral 2°C\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\guill\Desktop\tps_laboratorio_ii\TP1 Miguel Parral 2°C\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\guill\Desktop\tps_laboratorio_ii\TP1 Miguel Parral 2°C\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\Entidades.dll
+C:\Users\guill\Desktop\tps_laboratorio_ii\TP1 Miguel Parral 2°C\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\guill\Desktop\tps_laboratorio_ii\TP1 Miguel Parral 2°C\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\Entidades.pdb
+C:\Users\guill\Desktop\tps_laboratorio_ii\TP1 Miguel Parral 2°C\Entidades\TP1_Parral Miguel\obj\Debug\net5.0\Entidades.genruntimeconfig.cache
